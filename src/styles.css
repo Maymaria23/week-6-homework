@@ -1,0 +1,68 @@
+h1 {
+  color: black;
+}
+input,
+label {
+  text-align: center;
+  position: relative;
+  left: 500px;
+  border-radius: 40px;
+  border-color: black;
+  margin: 5px;
+}
+h4 {
+  font-size: 70px;
+  position: relative;
+  left: 1000px;
+  bottom: 80px;
+}
+
+.first {
+  font-size: 33px;
+  position: relative;
+  left: 925px;
+  bottom: 153px;
+}
+
+.second {
+  font-size: 26px;
+  position: relative;
+  bottom: 90px;
+  left: 185px;
+}
+
+.third {
+  font-size: 26px;
+  position: relative;
+  left: 385px;
+  bottom: 90px;
+}
+
+.fourth {
+  position: relative;
+  font-size: 26px;
+  bottom: 90px;
+  left: 589px;
+}
+
+.fifth {
+  font-size: 26px;
+  position: relative;
+  bottom: 90px;
+  left: 785px;
+}
+
+.sixth {
+  font-size: 26px;
+  position: relative;
+  bottom: 90px;
+  left: 985px;
+}
+
+.container {
+  border: 2px solid;
+}
+
+.github {
+  text-align: center;
+}
